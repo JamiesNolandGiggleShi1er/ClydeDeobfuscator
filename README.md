@@ -1,55 +1,52 @@
-# ClydeDeobf :3
+hey yall :3 (made by jamie)
 
-a deobfuscator for Clyde-Luau-Obfuscator.
+# ClydeDeobf
 
-i made this because i got bored and wanted to see how far i could take it. it currently aims to support the newer Clyde versions and pretty much every protection setup.
+a Clyde deobfuscator i made because why not.
 
-## what it supports
+supports newer Clyde versions and different VM/protection setups. it doesn't run the input script either — everything is done statically.
+
+also used in **OmniDBF**, my own deobfuscation bot.
+
+## use
+
+```bash
+node cli.js obfuscated.lua
+node cli.js obfuscated.lua -o clean.lua
+```
+
+## current support
 
 * Clyde V2 - V6
-* register VM
-
-  * debug
-  * normal
-  * max
 * stack VM
+* register VM
+* debug / normal / max
+* most protection combinations
 
-  * debug
-  * normal
-  * max
-* different protection combinations
-* clean(er) Luau output
+some stuff is still being worked on, so don't expect it to magically fix everything.
 
-## OmniDBF
+## how it works
 
-this deobfuscator is also used by **OmniDBF**, my own Discord deobfuscation bot.
+basically it finds the Clyde stuff, decodes the constants/instructions, rebuilds the control flow and turns it back into readable Luau.
 
-i'm the owner of OmniDBF, so i decided to make the Clyde support public instead of keeping it locked inside the bot.
+no execution of the obfuscated script.
 
-## why
+## ai / open code
 
-mostly just a challenge/project for me. Clyde is open source, so i wanted to make something that can understand what it does and turn the output back into something readable.
+some parts were made with help from AI and open code.
 
-also yes, some of the code was made with the help of AI / open code. i'm not gonna pretend i manually typed every single line at 3am.
-
-the actual project, testing and figuring out how everything works is still mine.
-
-## status
-
-already released fully no updates after this
-
-PLEASEEEE give me credits at least please if u use it
-
-## disclaimer
-
-this is an unofficial project and is not affiliated with or endorsed by the Clyde developers.
-
-please use it responsibly and only deobfuscate code you have permission to analyze.
+i'm not gonna lie and say i manually wrote every single line lol.
 
 ## credits
 
-made by Jamie.
+made by Jamie
 
-if you find a bug, open an issue instead of just yelling at me in dms.
+part of **OmniDBF**
 
-give credits also
+jesus loves u
+
+if you find something broken, open an issue instead of spamming my dms.
+
+## license
+
+MIT
