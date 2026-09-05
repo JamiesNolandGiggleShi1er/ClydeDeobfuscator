@@ -2,6 +2,8 @@ hey yall :3 (made by jamie)
 
 # ClydeDeobf
 
+# made by OmniDBF owner jamie <<https://dsc.gg/odbf>>
+
 a Clyde deobfuscator i made because why not.
 
 supports newer Clyde versions and different VM/protection setups. it doesn't run the input script either — everything is done statically.
