@@ -1,0 +1,23 @@
+{
+  "name": "clyde-deobfuscator",
+  "version": "1.0.0",
+  "description": "Static deobfuscator for Clyde Protection-obfuscated Luau scripts. Part of jamie's deobfuscator / omniDBF.",
+  "main": "clyde_static_deob.js",
+  "bin": {
+    "clyde-deob": "cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "keywords": [
+    "luau",
+    "lua",
+    "deobfuscator",
+    "clyde",
+    "roblox"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  }
+}
