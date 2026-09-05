@@ -36,9 +36,9 @@ the actual project, testing and figuring out how everything works is still mine.
 
 ## status
 
-currently in development.
+already released fully no updates after this
 
-more stuff will be added as i get around to it.
+PLEASEEEE give me credits at least please if u use it
 
 ## disclaimer
 
@@ -51,3 +51,5 @@ please use it responsibly and only deobfuscate code you have permission to analy
 made by Jamie.
 
 if you find a bug, open an issue instead of just yelling at me in dms.
+
+give credits also
