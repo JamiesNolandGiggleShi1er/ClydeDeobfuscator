@@ -1,4 +1,4 @@
-# ClydeDeobf
+# ClydeDeobf :3
 
 a deobfuscator for Clyde-Luau-Obfuscator.
 
