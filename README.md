@@ -1,8 +1,8 @@
-hey yall :3 (made by jamie)
+hey yall :3 (made by @_jmi.)
 
 # ClydeDeobf
 
-# made by OmniDBF owner jamie <<https://dsc.gg/odbf>>
+# made by OmniDBF owner @_jmi. (0x6a6d) <<https://dsc.gg/odbf>>
 
 a Clyde deobfuscator i made because why not.
 
@@ -41,7 +41,7 @@ i'm not gonna lie and say i manually wrote every single line lol.
 
 ## credits
 
-made by Jamie
+made by @_jmi.
 
 part of **OmniDBF**
 
